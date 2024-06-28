@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full stack Web Devlopment**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **DSA, Web Development**
 
 - 📫 How to reach me **rachitvohra23@gmail.com**
 
